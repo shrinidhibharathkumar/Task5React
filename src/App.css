@@ -1,0 +1,26 @@
+body{
+  margin-top: 12%;
+  text-align: center;
+}
+
+.c1{
+  font-size: 40px;
+}
+
+h2{
+  font-size: 25px;
+}
+input{
+  width: 20%;
+  height: 23px;
+}
+
+button{
+margin-top: 10px;
+background-color: rgb(73, 111, 249);
+border-radius: 6px;
+width: 130px;
+height: 45px;
+border-color: rgb(73, 111, 249);
+color: white;
+}
